@@ -1,0 +1,14 @@
+{
+  "name": "standbotdiscord",
+  "version": "1.0.0",
+  "description": "Bot reminder to stand up and walk around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
